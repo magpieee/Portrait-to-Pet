@@ -1,0 +1,4 @@
+interface:
+  display_name: "Portrait To Pet"
+  short_description: "Character art to Codex pet release."
+  default_prompt: "Use $portrait-to-pet to turn this character reference into a Codex pet and prepare a GitHub-ready release."
